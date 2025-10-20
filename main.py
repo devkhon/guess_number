@@ -11,4 +11,4 @@ while count<3:
         break
     else:
         print(f"Topolmadingiz ❌>> {count}")
-    count +=1
+    count = count + 1
